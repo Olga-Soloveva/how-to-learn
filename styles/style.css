@@ -1,3 +1,6 @@
+/* {
+  border: red 1px solid;
+} */
 .page {
   min-width: 1100px;
   max-width: 1600px;
@@ -74,8 +77,7 @@ a.header__link:hover {
   bottom: 0;
   right: 0;
   z-index: 2;
-  object-fit: contain;
-  object-position: bottom right;
+  object-fit: cover;
 }
 
 .header__square-pic {
