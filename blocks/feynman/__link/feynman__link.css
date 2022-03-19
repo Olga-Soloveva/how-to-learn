@@ -9,8 +9,3 @@
   right: 48px;
   z-index: 2;
 }
-
-.feynman__link:hover {
-  background-color: #2f80ed;
-  color: white;
-}
